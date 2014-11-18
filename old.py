@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 import sys
-
+print("lalala")
 out_of = int(sys.argv[1])
 while 1:
     try:
